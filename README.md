@@ -191,7 +191,3 @@ class Home extends PageView<IHomeModel> {
 ### ...View
 
 Остальные компоненты наследуются от PageView
-
-### Диаграмма
-
-![UML-схема](./src/uml/web-larek.png)
