@@ -1,4 +1,5 @@
 # Проектная работа "Веб-ларек"
+https://github.com/SamsonovDmitriy/web-larek-frontend.git
 
 Стек: HTML, SCSS, TypeScript, Webpack
 
